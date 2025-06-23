@@ -1,0 +1,12 @@
+.main-queries-fs {
+  display: grid;
+}
+.query-fs {
+  display: flex;
+  flex-wrap: nowrap;
+  align-items: center;
+  gap: 1rem;
+}
+header {
+  border-bottom: none;
+}
