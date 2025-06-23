@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/main.tsx","./src/vite-env.d.ts","./src/components/contexts/querycontext.tsx","./src/components/fieldsets/filtersmaincontainer.tsx","./src/components/forms/searchform.tsx","./src/lib/declarations/interfaces.d.ts","./src/lib/declarations/reduxinterfaces.d.ts","./src/lib/hooks/usequery.tsx","./src/lib/hooks/usetaxon.tsx"],"version":"5.8.3"}
