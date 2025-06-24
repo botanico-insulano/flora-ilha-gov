@@ -1,4 +1,4 @@
-import "./App.css";
+import "./App.scss";
 import { ErrorBoundary } from "react-error-boundary";
 import FiltersMainContainer from "./components/fieldsets/FiltersMainContainer";
 export default function App() {
